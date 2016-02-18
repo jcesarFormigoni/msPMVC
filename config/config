@@ -1,0 +1,8 @@
+#!/usr/bin/perl
+
+	# Config File
+
+	@listsCreated = ("listBase","listUniqData","dataSearch"); # Update array if create more modules
+	$_facFromConfig = "factory/export_BRAZIL_list.txt"; # Source of Factory { DAO }
+	
+1;

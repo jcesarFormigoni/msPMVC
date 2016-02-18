@@ -1,0 +1,7 @@
+#!/usr/bin/perl
+print @{$ARGV[1]};
+print "View :: ".($ARGV[0])."\nViewLoad ::\n";
+if(!defined($ARGV[2])) { print "::{this view requires additional parameters} \n"; }
+foreach my $file (@ARGV) { print "#:: inView >> ".$file." ::}\n"; }
+
+return 1;

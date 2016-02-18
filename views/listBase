@@ -1,0 +1,7 @@
+#!/usr/bin/perl
+foreach my $lines (@{$ARGV[1]}) { print $lines."\n"; }
+print "View :: ".($ARGV[0])."\nViewLoad ::\n";
+foreach my $file (@ARGV) { print "#:: inView >> ".$file." ::}\n"; }
+
+
+return 1;

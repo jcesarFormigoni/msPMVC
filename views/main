@@ -1,0 +1,6 @@
+#!/usr/bin/perl
+
+require $ARGV[0]."/".$ARGV[0];
+print ":: Inside Main View \n";
+foreach my $models (@listsCreated) { print "#:: available Models >> ".$models." ::}\n"; }
+return 1;
