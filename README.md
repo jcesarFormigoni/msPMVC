@@ -1,5 +1,5 @@
 # msPMVC
-Very Simple mvc PERL.
+Very Simple mvc PERL. `Running Linux Terminal`
 
 MVC developed for studies of MVC architecture, using OO and requires was possible develop a MVC that runs on the Linux Command line.
 
