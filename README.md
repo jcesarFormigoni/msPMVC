@@ -29,9 +29,11 @@ After git pull the same is already in its basic operation I wrote three modules 
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
+
 ## History
     Version 1.0
     Create Repository and Pull.
+    
 ## Credits
 Julio Cesar Formigoni
 
