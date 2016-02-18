@@ -16,6 +16,13 @@ After git pull the same is already in its basic operation I wrote three modules 
 
 2 - Remember to add in your config file module `,"moduleName",`
 
+3 - Usage Examples :
+
+` perl main.pl dataSearch "ToFind_by_Text"` Find by Text
+
+` perl main.pl listUniqData "ToFind_by_id"` Find by id
+
+` perl main.pl listBase` -- > list all Text File Database
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -31,6 +38,3 @@ Julio Cesar Formigoni
 `Sorry for my English`
 ## License
 Freee !!!
-
-  <tabTrigger>readme</tabTrigger>
-</snippet>
