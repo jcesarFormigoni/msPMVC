@@ -22,7 +22,7 @@ After git pull the same is already in its basic operation I wrote three modules 
 
 ` perl main.pl listUniqData "ToFind_by_id"` Find by id
 
-` perl main.pl listBase` -- > list all Text File Database
+` perl main.pl listBase` List all Text File Database
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
